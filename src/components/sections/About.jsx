@@ -16,7 +16,14 @@ const About = () => {
           </h2>
           <div className="glass rounded-xl p-8 border-white/10 border hover:translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              I am a web developer with a strong passion for both front-end and back-end development, specializing in PHP, Laravel and MySQL. I have intermediate experience with JavaScript and React and am familiar with version control using Git and GitHub. I am eager to apply my skills in real-world projects, collaborate with experienced developers, and contribute to building efficient, scalable web applications. I am seeking a web development role to further enhance my expertise and gain hands-on experience.
+              I am a web developer with a strong passion for both front-end and
+              back-end development, specializing in PHP, Laravel and MySQL. I
+              have intermediate experience with JavaScript and React and am
+              familiar with version control using Git and GitHub. I am eager to
+              apply my skills in real-world projects, collaborate with
+              experienced developers, and contribute to building efficient,
+              scalable web applications. I am seeking a web development role to
+              further enhance my expertise and gain hands-on experience.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="rounded-xl p-6 hover:translate-y-1 transition-all">
@@ -53,13 +60,27 @@ const About = () => {
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
               <h3 className="text-xl font-bold mb-4">Contact</h3>
               <ul className="text-gray-300 space-y-2">
-                <li><strong>Phone:</strong> 09-978 868 561</li>
-                <li><strong>Email:</strong> shinehtetnyein05@gmail.com</li>
+                <li>
+                  <strong>Phone:</strong> 09-978 868 561
+                </li>
+                <li>
+                  <strong>Email:</strong> shinehtetnyein05@gmail.com
+                </li>
                 <li>
                   <strong>GitHub:</strong>{" "}
-                  <a href="https://github.com/shinehtetnyein" target="_blank" rel="noopener noreferrer" className="text-cyan-300 hover:underline">https://github.com/shinehtetnyein</a>
+                  <a
+                    href="https://github.com/shinehtetnyein"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-cyan-300 hover:underline"
+                  >
+                    https://github.com/shinehtetnyein
+                  </a>
                 </li>
-                <li><strong>Location:</strong> 121, Minyekyawswar road, Ahlone, Yangon</li>
+                <li>
+                  <strong>Location:</strong> 121, Minyekyawswar road, Ahlone,
+                  Yangon
+                </li>
               </ul>
               <h3 className="text-xl font-bold mt-6 mb-4">Soft Skills</h3>
               <ul className="list-disc list-inside text-gray-300 space-y-1">
@@ -96,11 +117,15 @@ const About = () => {
               <li>Hotel Booking Management System using PHP (Laravel)</li>
               <li>School Management System (Vue JS & Laravel)</li>
               <li>POS System (PHP)</li>
-              <li>IT Product Sales & Service Database Management System (MySQL)</li>
+              <li>
+                IT Product Sales & Service Database Management System (MySQL)
+              </li>
               <li>Hiking App (Kotlin & React Native)</li>
               <li>Homeless UI design (Axure)</li>
             </ul>
-            <h3 className="text-xl font-bold mt-6 mb-4">Certifications & Achievements</h3>
+            <h3 className="text-xl font-bold mt-6 mb-4">
+              Certifications & Achievements
+            </h3>
             <ul className="list-disc list-inside text-gray-300 space-y-2">
               <li>NCC Level 4 & 5 Diploma in Computing</li>
               <li>Graphic Design Course</li>
